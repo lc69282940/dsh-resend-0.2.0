@@ -1,0 +1,5 @@
+# Adds one plugin row. Does not alter settings, model selection, or permissions.
+# The host and classic-script renderer are discovered through package.json.
+- insert:
+    - id: dsh-resend
+      name: dsh-resend

@@ -1,0 +1,9 @@
+dsh-resend is an independent community plugin, not an official DeepSeek product.
+DeepSeek Harness interfaces and small protocol-derived portions are based on
+DeepSeek Harness 0.2.0-rc.2, Copyright (c) 2026 DeepSeek, used under the MIT
+License reproduced in LICENSE. The Harness runtime itself is not bundled.
+
+React and other host libraries are supplied by the running Harness application;
+they are not vendored into this package. jsdom is a development-only dependency
+and is not distributed inside the runtime tarball. The package icon is original
+project artwork and is covered by the same MIT license.
